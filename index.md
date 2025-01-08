@@ -1,18 +1,13 @@
 # header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 
 ``` javascript
 var myvar = "Hello, World !"
 ```
 
-``` csharp
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
 
-try {
-   /// code
-}
-catch {
-}
 
-```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
